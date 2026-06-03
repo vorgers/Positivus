@@ -1,0 +1,271 @@
+@font-face {
+    font-family: GroteskL;
+    src: url(/fonts/SpaceGrotesk-Light.ttf);
+}
+
+@font-face {
+    font-family: GroteskM;
+    src: url(/fonts/SpaceGrotesk-Medium.ttf);
+}
+
+@font-face {
+    font-family: GroteskR;
+    src: url(/fonts/SpaceGrotesk-Regular.ttf);
+}
+
+.nav {
+    font-family: GroteskR, sans-serif;
+    font-size: 20px;
+    line-height: 28px;
+    color: #000;
+    margin-right: 40px;
+    text-decoration: none;
+}
+
+.header__title {
+    font-family: GroteskL, sans-serif;
+    font-size: 60px;
+    color: #000;
+    margin: 0;
+}
+
+.header__subtitle {
+    font-family: GroteskR, sans-serif;
+    font-size: 20px;
+    line-height: 28px;
+    color: #000;
+    margin: 0;
+    width: 498px;
+    margin-top: 35px;
+    margin-bottom: 35px;
+}
+
+.services {
+    background: #B9FF66;
+    color: #000;
+    font-family: GroteskM, sans-serif;
+    font-size: 40px;
+    border-radius: 7px;
+    padding-left: 7px;
+    padding-right: 7px;
+    margin-right: 40px;  
+}
+
+.services__text {
+    color: #000;
+    font-family: GroteskR, sans-serif;
+    font-size: 18px;
+    width: 580px;
+    margin: 0;
+}
+
+.card__text {
+    background: #B9FF66;
+    padding-left: 7px;
+    padding-right: 7px;
+    font-family: GroteskM, sans-serif;
+    font-size: 30px;
+    border-radius: 7px;
+}
+
+.card__more {
+    font-family: GroteskR, sans-serif;
+    font-size: 20px;
+    line-height: 28px;
+    text-decoration: none;
+    cursor: pointer;
+    color: #000;
+}
+
+.cta__title {
+    font-family: GroteskM, sans-serif;
+    font-size: 30px;
+    width: 500px;
+}
+
+.cta__subtitle {
+    font-family: GroteskR, sans-serif;
+    font-size: 18px;
+    width: 500px;
+}
+
+.studies__title {
+    font-family: GroteskM, sans-serif;
+    font-size: 40px;
+    background: #B9FF66;
+    padding-left: 7px;
+    padding-right: 7px;
+    border-radius: 7px;
+}
+
+.studies__text {
+    font-family: GroteskR, sans-serif;
+    font-size: 18px;
+    width: 580px;
+}
+
+.studies__case_text {
+    font-family: GroteskR, sans-serif;
+    font-size: 18px;
+    color: #fff;
+}
+
+.studies__case_more {
+    font-family: GroteskR, sans-serif;
+    font-size: 20px;
+    color: #B9FF66;
+    line-height: 28px;
+}
+
+.process__title {
+    font-family: GroteskM, sans-serif;
+    font-size: 40px;
+    background: #B9FF66;
+    padding-left: 7px;
+    padding-right: 7px;
+    border-radius: 7px;
+}
+
+.process__text {
+    font-family: GroteskR, sans-serif;
+    font-size: 18px;
+    width: 292px;
+}
+
+.process__number {
+    font-family: GroteskM, sans-serif;
+    font-size: 60px;
+}
+
+.process__name {
+    font-family: GroteskM, sans-serif;
+    font-size: 30px;
+}
+
+.process__main {
+    font-family: GroteskR, sans-serif;
+    font-size: 18px;
+    width: 1114px;
+}
+
+.team__title {
+    font-family: GroteskM, sans-serif;
+    font-size: 40px;
+    background: #B9FF66;
+    padding-left: 7px;
+    padding-right: 7px;
+    border-radius: 7px;
+}
+
+.team__text {
+    font-family: GroteskR, sans-serif;
+    font-size: 18px;
+    width: 473px;
+}
+
+.team__name {
+    font-family: GroteskM, sans-serif;
+    font-size: 20px;
+    color: #000;
+}
+
+.team__job {
+    font-family: GroteskR, sans-serif;
+    font-size: 18px;
+    color: #000;
+}
+
+.team__subtitle {
+    font-family: GroteskR, sans-serif;
+    font-size: 18px;
+    color: #000;
+}
+
+.testimonials__title {
+    font-family: GroteskM, sans-serif;
+    font-size: 40px;
+    background: #B9FF66;
+    padding-left: 7px;
+    padding-right: 7px;
+    border-radius: 7px;
+}
+
+.testimonials__text {
+    font-family: GroteskR, sans-serif;
+    font-size: 18px;
+    width: 473px;
+}
+
+.testimonials__subtitle {
+    font-family: GroteskR, sans-serif;
+    font-size: 18px;
+    color: #fff;
+}
+
+.testimonials__name {
+    color: #B9FF66;
+    font-family: GroteskR, sans-serif;
+    font-size: 18px;
+}
+
+.testimonials__job {
+    color: #fff;
+    font-family: GroteskR, sans-serif;
+    font-size: 18px;
+}
+
+.contact__title {
+    font-family: GroteskM, sans-serif;
+    font-size: 40px;
+    background: #B9FF66;
+    padding-left: 7px;
+    padding-right: 7px;
+    border-radius: 7px;
+}
+
+.contact__text {
+    font-family: GroteskR, sans-serif;
+    font-size: 18px;
+    width: 323px;
+}
+
+.contact__radio_text {
+    font-family: GroteskR, sans-serif;
+    font-size: 18px;
+    margin-left: 14px;
+}
+
+.contact__field_text {
+    font-family: GroteskR, sans-serif;
+    font-size: 16px;
+    margin-bottom: 5px;
+}
+
+.footer__nav_text {
+    font-family: GroteskR, sans-serif;
+    font-size: 18px;
+    color: #fff;
+}
+
+.footer__contact_text {
+    font-family: GroteskM, sans-serif;
+    font-size: 20px;
+    padding: 0 7px 0 7px;
+    color: #000;
+    background: #B9FF66;
+    border-radius: 7px;
+    width: 126px;
+}
+
+.footer__info_text {
+    font-family: GroteskR, sans-serif;
+    font-size: 18px;
+    color: #fff;
+}
+
+.footer__license_text {
+    font-family: GroteskR, sans-serif;
+    font-size: 18px;
+    line-height: 28px;
+    color: #fff;
+}

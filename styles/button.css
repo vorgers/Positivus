@@ -1,0 +1,49 @@
+.primary {
+    font-family: GroteskR, sans-serif;
+    font-size: 20px;
+    line-height: 28px;
+    padding: 20px 35px;
+    background: #fff;
+    border-radius: 14px;
+    border-color: #191A23;
+    cursor: pointer;
+}
+
+.primary:hover {
+    color: #4b4b4b;
+    border-color: #808080;
+}
+
+.secondary {
+    background: #191A23;
+    color: #fff;
+    font-family: GroteskR, sans-serif;
+    font-size: 20px;
+    line-height: 28px;
+    border-radius: 14px;
+    padding: 20px 35px;
+    border: none;
+    cursor: pointer;
+}
+
+.secondary:hover {
+    color: #d1d1d1;
+    background: #000000;
+}
+
+.footer__button {
+    background: #B9FF66;
+    font-family: GroteskR, sans-serif;
+    font-size: 20px;
+    line-height: 28px;
+    padding: 20px 35px;
+    border-radius: 14px;
+    cursor: pointer;
+    border: none;
+    width: 249px;
+    height: 68px;
+}
+
+.footer__button:hover {
+    background: #a3ff33;
+}
